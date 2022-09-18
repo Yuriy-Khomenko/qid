@@ -1,0 +1,34 @@
+{
+  "name": "qid",
+  "version": "1.0.0",
+  "description": "a small and fast utility to generate unique IDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuriy-Khomenko/qid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yuriy-Khomenko/qid/issues"
+  },
+  "homepage": "https://github.com/Yuriy-Khomenko/qid#readme",
+  "keywords": [
+    "id",
+    "uid",
+    "unique id",
+    "qid",
+    "uuid",
+    "unique",
+    "random",
+    "generate",
+    "randomize",
+    "crypto",
+    "fast",
+    "fast id",
+    "fastest"
+  ],
+  "author": "Yuriy Khomenko",
+  "license": "MIT"
+}
