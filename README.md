@@ -1,4 +1,4 @@
-## qid
+## qqid
 
 A small and fast utility to generate unique IDs
 
@@ -6,14 +6,14 @@ If you need to quickly generate UUID, use the standard [randomUUID](https://deve
 
 ### Install
 
-npm install --save qid
+npm install --save qqid
 
 ### Usage
 
 ```javascript
-import qid from 'qid'; // default - qid16
+import qid from 'qqid'; // default - qid16
 
-// or import from 'qid/qid26'; - qid26
+// or import from 'qqid/qid26'; - qid26
 
 const id = qid(); // id - identifier 16 characters long
 ```

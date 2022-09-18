@@ -1,5 +1,5 @@
 {
-  "name": "qid",
+  "name": "qqid",
   "version": "1.0.0",
   "description": "a small and fast utility to generate unique IDs",
   "main": "index.js",
@@ -8,17 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Yuriy-Khomenko/qid.git"
+    "url": "git+https://github.com/Yuriy-Khomenko/qqid.git"
   },
   "bugs": {
-    "url": "https://github.com/Yuriy-Khomenko/qid/issues"
+    "url": "https://github.com/Yuriy-Khomenko/qqid/issues"
   },
-  "homepage": "https://github.com/Yuriy-Khomenko/qid#readme",
+  "homepage": "https://github.com/Yuriy-Khomenko/qqid#readme",
   "keywords": [
     "id",
     "uid",
     "unique id",
     "qid",
+    "qqid",
     "uuid",
     "unique",
     "random",
